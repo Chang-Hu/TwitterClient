@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!--
         Base application theme, dependent on API level. This theme is replaced
@@ -16,5 +16,16 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
+    
+<!--     <style name="tweet_item" parent="AppTheme">
+        <item name="android:layout_margin">10dp</item>
+    </style> -->
+    
+<!--     <style name="tweet_message" parent="tweet_item">
+    </style>
 
+	<style name="tweet_username" parent="tweet_item">
+	    <item name="android:textStyle">bold</item>
+	</style> -->
+    
 </resources>
